@@ -1,2 +1,4 @@
 # Energy Aware Particle Swarm Optimization (EAPSO)
 Energy Aware Particle Swarm Optimization as Search Mechanism for Aerial Micro-Robots
+
+Abstract - We present the Energy Aware PSO (EAPSO) as a search mechanism for aerial micro-robots with limited energy capacity. The proposed model is an extension of the search concept of Particle Swarm Optimization (PSO) that additionally considers the energy levels of the individuals for an efficient movement. One major contribution of this paper is that the energy efficiency results from a multi-criteria decision making process performed by the individuals. The energy consumption model in EAPSO is adapted from a real hardware scenario and has been tested on three known landscapes which are very similar to search terrains by the aerial micro-robots. The results show that EAPSO can reduce the total energy consumption of the swarm with negligible degradation of the search results.
